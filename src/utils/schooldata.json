@@ -1,0 +1,6410 @@
+[
+    {
+     "schoolname": "Bhola Nath Nagar-SBV (Babu Ram)",
+     "address": "Bhola Nath Nagar, Shahadara",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vivek Vihar-SBV",
+     "address": "Near Ram Mandi, Vivek Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kanti Nagar-SBV",
+     "address": "Kanti Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Surajmal Vihar–SBV",
+     "address": "A-Block, Surajmal Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SBV No.1, Bhola Nath Nagar-1001008",
+     "address": "Bhola Nath Nagar Shahdara Delhi-32 ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Anand Vihar-SKV",
+     "address": "Railway Station, Anand Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vivek Vihar-GBSS",
+     "address": "C-Block , Vivek Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bhola Nath Nagar, No.1-SKV",
+     "address": "Bhola Nath Nagar, Shahadara",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vivek Vihar- SKV",
+     "address": "C-Block, Vivek Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bhola Nath Nagar, No.3-GGSSS",
+     "address": "Bhola Nath Nagar, Shahadara",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kanti Nagar-GGSSS",
+     "address": "Kanti Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vivek Vihar,Phase-II-GGSSS",
+     "address": "Jhilmil Colony",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Surajmal Vihar-SKV",
+     "address": "Surajmal Vihar-Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Surajmal Vihar-RPVV",
+     "address": "Surajmal Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jhilmil Colony-SBV",
+     "address": "Jhilmil Colony - Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kiran Vihar-SKV",
+     "address": "Kran Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kiran Vihar-SBV",
+     "address": "Kiran Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rajgarh Colony-SBV",
+     "address": "Rajgarh Colony",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jhilmil Colony-GGSSS",
+     "address": "Jhilmil Colony",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shahdara, Teliwara-G(Co-ed)SS",
+     "address": "Teliwara",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "West Azad Nagar-G(co-ed)SS",
+     "address": "West Azad Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vishwas Nagar-SKV",
+     "address": "Vishwas Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vishwas Nagar-GBSSS",
+     "address": "Vishwas Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Anand Vihar - SBV",
+     "address": "Anand Vihar, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Surajmal Vihar",
+     "address": "Surajmal Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mandawali-SBV (Veer Udham Singh) No. 1",
+     "address": "Indrprastha Vistar Samuhik Awas, Mandawali",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Patparganj-SBV (Genda Lal Dixit)",
+     "address": "Patpar Ganj",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kalyanvas-SBV (Raj Bihari Bose)",
+     "address": "Kalyanvas",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shakarpur, No.2-SBV (Ishwar Chand)",
+     "address": "Shakarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "West Vinod Nagar-SBV",
+     "address": "West Vinod Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mayur Vihar, Phase I, Pkt. II-SBV (Prem Chand)",
+     "address": "Mayur  Vihar, Phase I, Pkt. II",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "East Vinod Nagar-SBV (Jai Prakash Narayan)",
+     "address": "East Vinod Nagar, Delhi-91",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kalyanpuri-SBV",
+     "address": "Kalyan Puri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Trilokpuri, Block 20-SBV",
+     "address": "B-20, Trilokpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Khichripur-GBSSS",
+     "address": "Khichripur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dallupura-SBV",
+     "address": "Dallupura",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "New Kondli-GBSSS",
+     "address": "B-Block ,New Kondli Delhi - 110096",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mayur Vihar, Phase II, Pkt.B-SBV",
+     "address": "Mayur Vihar-II",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mayur Vihar, Phase I, Pkt.IV-SBV(Shaheed Capt.Hanifuddin)",
+     "address": "Mayur Vihar Phase-I, Pocket-IV",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kalyanpuri -GBSSS",
+     "address": "Kalyan Puri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kalyanpuri-SKV (Mother Teresa)",
+     "address": "Kalyan Puri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mandawali-SKV No. 2",
+     "address": "Mandawali",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Trilokpuri, Block 27-SKV",
+     "address": "Trilokpuri, block -27",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Trilokpuri, Block 20-SKV (Sharda Sen)",
+     "address": "Trilokpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kondli-SKV (Jeeja Bai)",
+     "address": "kondli, Near Kalyanpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dallupura-SKV",
+     "address": "Dallupura",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "East Vinod Nagar-SKV (Ravindra Thakur)",
+     "address": "S.K.V  East Vinod Nagar Delhi -91",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mayur Vihar, Phase II, Pkt.B-SKV (Annie Besant)",
+     "address": "Mayur  Vihar, Phase II, Pkt. B",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Patparganj-SKV",
+     "address": "Patpar Ganj",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "West Vinod Nagar-SKV",
+     "address": "West Vinod Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "KalyanVas-SKV",
+     "address": "Kalyan Vas  Delhi-110091",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mayur Vihar, Phase I, Pkt.II-SKV (Janaki Devi) from Nursery to XII",
+     "address": "Pocket II mayur Vihar  Phase I",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mayur Vihar, Phase I, Pkt.IV-SKV",
+     "address": "Mayur  Vihar, Phase I, Pkt. IV",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Khichripur-GGSSS",
+     "address": "Khichripur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kalyanpuri-GGSSS",
+     "address": "Kalyanpuri, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Trilokpuri, Block 27-GGSSS",
+     "address": "Trilokpuri,Block-27",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Trilokpuri, Block 27-SBV",
+     "address": "Block-27, Trilokpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "West Vinod Nagar, Block E-G(Co-ed)SSS",
+     "address": "West Vinod Nagar, E Block Delhi-92",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mandawali-SBV, No. 3",
+     "address": "Mandawali",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mayur Vihar, Phase I, Chilla Gaon-G(Co-ed)SSS",
+     "address": "Chilla Village,Near Parwana Aptts.,Mayur Vihar, Ph",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "New Ashok Nagar-SKV",
+     "address": "New Ashok Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Gazipur-SKV",
+     "address": "Gazipur-Delhi-96",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vasundhra Enclave-GGSSS",
+     "address": "Vasundhra Enclave",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "New Kondli-GGSSS",
+     "address": "New Kondli-Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "New Ashok Nagar-GBSSS",
+     "address": "New Ashok Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Patparganj, I.P. Extn- Sarvodaya (Co-ed) SSS",
+     "address": "I. P. Extn., Patparganj",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mandawali , No.3 - SKV",
+     "address": "Mandawali, Delhi-92",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shakarpur, School Block-GGSSS",
+     "address": "School Block, Shakarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shakarpur, No.1-SBV",
+     "address": "Shakarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shakarpur, No.2-SKV",
+     "address": "Madhuban Road, Shakarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shakarpur, School Block-SBV",
+     "address": "School Block, Shakar Pur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shakarpur, No.1-SKV",
+     "address": "Shakarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Trilokpuri, Block 27-GBSSS",
+     "address": "Block-27, Trilokpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kondli-SBV",
+     "address": "Kondli",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mayur Vihar, Phase III GGSS",
+     "address": "Mayur Vihar, Phase III",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mayur Vihar, Phase III, Kondli-Gharauli-GBSSS-1002263",
+     "address": "Kondli Gharauli, Mayur vihar, Phase-III",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Khichripur Village, Govt.(Co-ed)SS",
+     "address": "Khichripur Village,",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Preet Vihar, Govt. Co-Ed Senior Secondary School",
+     "address": "Preet Vihar, Delhi-92",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mayur Vihar, Phase III, Kondli Gharauli-GGSSS  -1002352",
+     "address": "Mayur Vihar, Phase III, Kondli Gharauli",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mayur Vihar, Phase III GBSS",
+     "address": "Mayur Vihar, Phase III",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Khichari Pur Village ,J.J Colony - SKV",
+     "address": "Khichari Pur Village ,J.J Colony",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vasundhra Enclave-GBSSS",
+     "address": "Vasundhra Enclave",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Gazipur-GBSSS",
+     "address": "Gazipur-Delhi-96",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mandawali, No.2 - SBV",
+     "address": "Mandawali",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mandawali, No.1- SKV",
+     "address": "Mandawali",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Khichripur Village, J.J.Colony- SBV",
+     "address": "SBV,J.J.Colony, Khichripur Village, Delhi-110091",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "I.P.Extension-RPVV",
+     "address": "I.P Extension,Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "khichripur School of Excellence",
+     "address": "Khichripur, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Khichripur",
+     "address": "Khichripur, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, I.P Extension",
+     "address": "I.P Extension",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Govt. Girls Secondary School (GGSS)",
+     "address": "Joshi Colony, Mandawali, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Government Primary Special School (Co-ed) for Children with Intellectual Disability",
+     "address": "Mayur Vihar, Phase-I, Delhi-110091",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Government Primary Special School (Co-ed) for the Hearing Impaired",
+     "address": "Mayur Vihar, Phase-I, Delhi-110091",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Laxmi Nagar-SBV",
+     "address": "Laxmi Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rani Garden-SBV",
+     "address": "Rani Garden",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jheel Khurenja, No.1-SBV",
+     "address": "Jheel Khurenja",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kailash Nagar-SBV",
+     "address": "Gandhi Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Chander Nagar-GBSSS",
+     "address": "Chander Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Geeta Colony, Block 13-GBSSS",
+     "address": "Block-13, Geeta Colony",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Gandhi Nagar-SBV",
+     "address": "Gandhi Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Krishna Nagar-SBV",
+     "address": "Krishana Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Geeta Colony, Block 13-SKV",
+     "address": "B-13, Geeta Colony",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Chander Nagar-SKV",
+     "address": "Chander Nagar ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shankar Nagar-SKV",
+     "address": "Shnkar Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Gandhi Nagar, No.1-SKV",
+     "address": "Gandhi Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Laxmi Nagar-SKV",
+     "address": "Laxmi Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rani Garden-Sarvodaya Kanya Vidyalaya",
+     "address": "Block-12, Geeta Colony",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kailash Nagar-GGSSS",
+     "address": "Kailash Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Gandhi Nagar, No.2-GGSSS",
+     "address": "Gandhi Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Gandhi  Nagar, SKV",
+     "address": "Gandhi Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Krishna  Nagar-SKV",
+     "address": "Krishana Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Radhey Shyam Park-SBV",
+     "address": "Radehy Shyam Park",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Radhey Shyam Park- SKV",
+     "address": "Radehy Shyam Park, Parwana Road, Khurenji",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Geeta Colony, Block 2-G(Co-ed)SS",
+     "address": "Geeta colony,Block-2(co-ed)SS,Geeta Colony,Delhi-110031",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Old Seelampur-SKV",
+     "address": "Old Seelampur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shivpuri-G(Co-ed)SSS",
+     "address": "shiv puri delhi-51",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Lalita Park-GGSSS",
+     "address": "Lalita Park,Delhi-92",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Gandhi Nagar-RPVV",
+     "address": "Gandhi Nagar,Delhi-31",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Lalita Park-GBSSS",
+     "address": "Lalita Park,Delhi-92",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Old Seelampur -SBV",
+     "address": "SBV, Old Seelampur, Delhi-110031",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Gandhi Nagar",
+     "address": "Gandhi Nagar, Delhi- 31",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Yamuna Vihar, Block B, No.1-SBV",
+     "address": "Yamuna Vihar, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Khajoori Khas-SBV",
+     "address": "Khajoori Khas",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Yamuna Vihar, Block B, No.2-SBV",
+     "address": "Yamuna Vihar, B-Block",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Gokalpur Village-GBSSS",
+     "address": "Gokukpur Village",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Gokalpuri-GBSSS",
+     "address": "Gokal Puri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ghonda, No.1-GBSSS",
+     "address": "Ghonda",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ghonda, No.2-GBSSS",
+     "address": "Ghonda",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Yamuna Vihar, Block C, No.2-GBSSS",
+     "address": "C-2, Yamuna Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Yamuna Vihar, Block C, No.1-SBV",
+     "address": "Yamuna Vihar, C-Block",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dayalpur-GBSSS",
+     "address": "Dayalpur Village Delhi110094",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sabhapur-GGSSS",
+     "address": "Sabhapur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bhajanpura-G(Co-ed)SSS (RDJK)",
+     "address": "Bhajanpura, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mustufabad-GBSS",
+     "address": "Mustafabad, P. O. Gokal Puri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Khajoori Khas-GBSSS",
+     "address": "Khajoori Khas, P. O  Gokalpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Joharipur- GGMS",
+     "address": "Johripur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Yamuna Vihar, Block C, No.1-SKV",
+     "address": "Yamuna Vihar, C-Block",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ghonda, No.2-SKV",
+     "address": "A BlockGhonda, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Gokalpuri-SKV",
+     "address": "Gokal Puri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Gokalpur Village-SKV",
+     "address": "Gokal Puri Village",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Khajoori Khas-SKV",
+     "address": "Khajoori Khas Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Yamuna Vihar, Block B, No.1-GGSSS",
+     "address": "B-Block, Yamuna Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Yamuna Vihar, Block C, No.2-SKV",
+     "address": "Yamuna Vihar, C-Block",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ghonda, No.1-GGSSS",
+     "address": "Ghonda, Yamuna Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dayalpur-GGSSS",
+     "address": "Dayalpur Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Yamuna Vihar, Block B, No.2-GGSSS",
+     "address": "Yamuna Vihar,  Delhi-53",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mustufabad-GGSS",
+     "address": "Mustufabad-Delhi-94",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vijay Park-GGSSS",
+     "address": "Vijay Park, Maujpur Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Karawal Nagar-GGSSS",
+     "address": "Karawal Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Karawal Nagar-GBSSS",
+     "address": "Karawal Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Yamuna Vihar, Block B-RPVV",
+     "address": "Yamuna Vihar, B-Block",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bhajanpura-GBSSS (RDJK)",
+     "address": "Bhajanpura",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vijay Park-GBSSS",
+     "address": "Maujpur, Vijay Park",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Khajoori Khas-GGSSS",
+     "address": "Khajoori Khas,Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tukhmirpur-GBSSS",
+     "address": "Tukhmirpur, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tukhmirpur-GGSSS",
+     "address": "Tukhmirpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sonia Vihar-GGSSS",
+     "address": "Sonia Vihar,Delhi-94",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sonia Vihar-GBSSS",
+     "address": "Sonia Vihar,Delhi-94",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "LONI ROAD,EAST GOKULPUR,GGSSS",
+     "address": "LONI ROAD",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Loni Road,East Gokul Pur,Govt. Boys Sr.Sec.School",
+     "address": "Loni Road, East Gokul Pur,",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SABHAPUR-GOVT. BOYS S.SEC. SCHOOL ",
+     "address": "VILLAGE SABHAPUR, DELHI",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Badarpur Khadar -SKV-1104418",
+     "address": "Badarpur Khadar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tukhmirpur, No.2 - GGSSS",
+     "address": "GGSSS, NO.2, Tukhmirpur, Delhi-110094",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tukhmirpur, No.2- GBSSS",
+     "address": "GBSSS, No.2, Tukhmirpur,Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Village Karawal Nagar, Veer Savarkar Complex- GGSSS",
+     "address": "Village Karawal Nagar, Veer Savarkar Complex",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Village Karawal Nagar, Veer Savarkar Complex- GBSSS",
+     "address": "Village Karawal Nagar, Veer Savarkar Complex",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Block B, Yamuna Vihar",
+     "address": "Block B, Yamuna Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Joharipur- GBMS",
+     "address": "Joharipur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sarvodaya Bal Vidhyalaya",
+     "address": "Badarpur Khadar, Delhi-110090",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shahadara, G.T. Road-SBV (Gandhi Memorial)",
+     "address": "G. T. Road, Shahadara",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Gautam Puri-SBV",
+     "address": "Gautampuri, Usmanpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Brahmpuri-SBV",
+     "address": "Braham Puri-Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "New Seelampur, No.1-SBV",
+     "address": "New Seelampur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shahadara, Shivaji Park-GBSSS",
+     "address": "Shivaji Park, Shahadara",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shahadara, G.T. Road-GBSSS",
+     "address": "G. T. Road, Shahadara",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Babarpur-GBSSS",
+     "address": "shahadara, Babarpur, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jafrabad- SBV",
+     "address": "Jafrabad Delhi-110053",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "New Seelampur, No.2-GBSSS",
+     "address": "New Seelampur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Govt. Sarvodaya Bal Vidyalaya, Shastri Park- 1105011",
+     "address": "Shastri Park",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shahadara, G. T. Road-GBSecondarySchool",
+     "address": "G. T.Road Shahadara",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "New Seelampur, Marginal Band-GBSS",
+     "address": "New Seelam Pur, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Welcome Colony-GBSS",
+     "address": "Welcome Colony , New Seelampur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jafrabad Extn.-GBSSS",
+     "address": "Jafrabad, Shadara",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jafrabad, Zeenat Mahal(Urdu Medium)-SKV",
+     "address": "Jafrabad",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Babarpur-SKV",
+     "address": "Babarpur, Shahadara",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "New Seelampur, No.1-SKV (C.R.Dass)",
+     "address": "New Seelampur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shastri Park-SKV",
+     "address": "Shastri Park",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shahadara, Shivaji Park-GGSSS",
+     "address": "Shivaji Park",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Gautam Puri-GGSSS",
+     "address": "Gautam Puri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shahadara, G.T.Road-SKV",
+     "address": "G. T. Road, Shahadara",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "New Seelampur, No.2-GGSSS",
+     "address": "New Seelampur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Brahampuri-GGSSS",
+     "address": "Braham Puri,Gautampuri Gali No -7 Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "East Rohtash Nagar-G(Co-ed)MS",
+     "address": "East Rohtash Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shahadara, G.T. Road-GGSS",
+     "address": "G. T. Road, Shahadara",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "New Usmanpur(Gautam Puri)-GBSSS",
+     "address": "Gautam Puri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Welcome Colony-GGSS",
+     "address": "Welcome Colony , New Seelampur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "West Jyoti Nagar-GBSSS",
+     "address": "West Jyoti Nagar, Shahdara, ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shahadara, G.T. Road-SKV (Mani Ben Patel Bharti Mahila)",
+     "address": "G.T. Road, Shahdara ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "West Jyoti Nagar-GGSSS",
+     "address": "West Jyoti Nagar, ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Chauhan Bangar, Jafrabad-GGMS",
+     "address": "Chauhan Bangar, Jafrabad",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Brahmpuri-GBSSS",
+     "address": "Brahmapuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Chauhan Bangar, Jafrabad-GBMS",
+     "address": "Chauhan Bangar, ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Brahmpuri-GGSSS",
+     "address": "Gali No.7, Gautampuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "New Usmanpur(Gautam Puri)-GGSSS",
+     "address": "Gautam Puri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Brahmpuri,GGSSS Block-X",
+     "address": "Brahmpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shastri Park, Buland Masjid, SKV",
+     "address": "Buland Masjid, Shastri Park",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "New Seelampur, No.1-GGSS",
+     "address": "J.J.Colony New Seelampur,Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "New Jafrabad- GGSSS",
+     "address": "New Jafrabad (Jafrabad Extension)",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Brahmpuri, GBSSS, X- BLOCK",
+     "address": "X-Block Brampuri, Delhi 110053",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shastri Park, Buland Masjid, SBV",
+     "address": "Buland Masjid Shastri Park, Delhi 110053",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "New Seelampur, Gurudwara Road- G(Co-ed)MS",
+     "address": "Govt. Co-ed Middle School, Gurudwara Road, New Seelampur, Delhi-53",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Gautam Puri- RPVV",
+     "address": "RPVV, Gautam Puri, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Brahmpuri- Govt. Co-ed Sr. Sec. School (Gandhi)",
+     "address": "Brahmpuri, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Gautam Puri",
+     "address": "Gautam Puri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nand Nagri, Block B-SBV (B.P)",
+     "address": "Block-B, Nand Nagri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dilshad Garden, Block C-GBSSS",
+     "address": "C-Block, Delshad Garden",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nand Nagri, Janta Flats-SBV",
+     "address": "Janta Flats, Nand Nagri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mandoli-GBSSS",
+     "address": "Mandoli, Shahadara",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shahdara, Mansarovar Park, No.1-GBSSS",
+     "address": "Mansarovar Park, Sahadara",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sarvodaya Bal Vidyalaya, Seemapuri",
+     "address": "Seemapuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ashok Nagar-GBSS",
+     "address": "Mandoli Road, Ashok Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "New Seemapuri-GBSSS",
+     "address": "New Seemapuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dilshad Garden, Block J&K-SBV",
+     "address": "J&K Dilshad Garden",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nand Nagri Extn., F-1,F-2, GBSSS",
+     "address": "Nand Nagri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "New Seemapuri-SKV",
+     "address": "New Seemapuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mandoli-SKV",
+     "address": "Mandoli",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Seemapuri-SKV (Vishwamitra)",
+     "address": "Seemapuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nand Nagri, Block B-SKV (Raja Ravi Verma)",
+     "address": "B-Block, Nand Nagri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dilshad Garden, Block J&K-SKV (St. Eknath)",
+     "address": "Dilshad Garden , Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "East of Loni Road, DDA Flats-SKV",
+     "address": "East of Loni Road, Delhi-93",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dilshad Garden, Block C-SKV",
+     "address": "C-Block, Delshad Garden",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nand Nagri Extn., F-1, F-2, GGSSS",
+     "address": "Nand Nagri, FI-II",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ashok Nagar-GGSS",
+     "address": "Ashok Nagar, Mandoli Road,",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nand Nagri, Block E-SKV",
+     "address": "Block-E, Nand Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shahdara, Mansarover Park, No.2-SKV",
+     "address": "Mansarovar Park",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nand Nagri, Block A-GGSSS",
+     "address": "Block-A, Nand Nagri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Saboli- GGSSS",
+     "address": "Saboli, Shahadara",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "East of Loni Road, DDA Flats-GBSSS",
+     "address": "East Loni Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nand Nagri, Block A-GBSSS",
+     "address": "Block-A, Nand Nagar, Near Sabzi Mandi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Saboli- GBSSS",
+     "address": "Saboli, Shahadara",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Old Seemapuri, Block GH-GGSS",
+     "address": "GH Block, Old Seemapuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Meet Nagar, Block B-GGSS",
+     "address": "Block-B, Meet Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nand Nagri, Block D-RPVV",
+     "address": "nand nagari delhi-110093",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Harsh Vihar GGSS",
+     "address": "A-Blk,Harsh Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Harsh Vihar GBSS",
+     "address": "Harsh Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mandoli Extension-GGSSS",
+     "address": "MANDOLI EXTENSION,DELHI.",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Meet Nagar-B-Block, Delhi-94,Govt. Boys Sec. School",
+     "address": "Meet Nagar-B-Block, Delhi-94,Govt. Boys Sec. School",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Old Seemapuri, Block GH-GBSS",
+     "address": "GH Block, Old Seemapuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sunder Nagri- GGSSS",
+     "address": "Sunder Nagri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mandoli Extension-GBSSS",
+     "address": "MANDOLI EXTENSION,DELHI.",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sunder Nagari- GBSSS",
+     "address": "Govt. Boys Sr. Secondary School, Sunder Nagari",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Seemapuri- GGSSS",
+     "address": "Seemapuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Block- D, Nand Nagri",
+     "address": "Nand Nagri, Delhi- 110093",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nand Nagri, Janta Flats- GBSSS",
+     "address": "Janta Flats, Nand Nagri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nehru Vihar-SKV",
+     "address": "Nehru Vihar  Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jagat Pur- SKV(Mahavir Singh)",
+     "address": "Jagatpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shankaracharya Marg,Shahed Bhai Bal Mukand-SV",
+     "address": "Shankaracharya Marg",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Burari-SBV",
+     "address": "Burari ,Delhi-84",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Govt. Sarvodaya Vidyalaya No.3, Shakti Nagar",
+     "address": "Shakti Nagar,Delhi ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Timar Pur-SBV",
+     "address": "Timarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Roop Nagar,RSV NO-4",
+     "address": "Roop Nagar, Near  Kamla Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Gokhle Marg-SBV",
+     "address": "Gokhle Marg ,Delhi-6",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Roshanara Road-SBV",
+     "address": "Roshanara Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Roop Nagar, No.2-GBSSS",
+     "address": "Roop Nagar , Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mori Gate, No.1-SV",
+     "address": "Mori Gate",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kamla Nagar, E-Block, GBSS ",
+     "address": "Block-E, Kamla Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Lancer Road Near Maal Road",
+     "address": "Lancer Road, Near Maal Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sabzi Mandi, Kedar Building, Amar Shaheed Matadeen Lodha-SKV",
+     "address": "Sabzi Mandi, Kedar Building",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Timar Pur-SKV",
+     "address": "Timarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Malka Ganj-SKV",
+     "address": "Malka Ganj",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Burari-SKV",
+     "address": "Burari",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shakti Nagar, No.1-S(Co-ed)V",
+     "address": "Shakti Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shakti Nagar, No.2-GGSSS",
+     "address": "Shakti Nagar; Delhi-7",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Roop Nagar, No.1-G(Co-ed)SSS",
+     "address": "Roop Nagar,Delhi-7",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Roop Nagar, No.3-GGSSS",
+     "address": "Roop Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Chabi Ganj, Kashmiri Gate-GGSSS",
+     "address": "Chabi Ganj, Kashmiri Gate,Delhi-6",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nicholson Road-GGSSS",
+     "address": "Nicholson Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Raj Niwas Marg, RPVV",
+     "address": "Ludlow Castle, Rajniwas Marg",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Magazine Road-GBSSS",
+     "address": "Magazine Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nathupura-GBSSS",
+     "address": "Burari, Nathupura",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nathupura-GGSSS",
+     "address": "Near Sant Nagar, Tomer Colony, Nathupura",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Magazine Road-SKV",
+     "address": "Magazine Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Civil Lines, RPVV",
+     "address": "Opp. I. P. College, Civil Line",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nehru Vihar-GBSSS",
+     "address": "Lancer Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Burari-GBSSS-1207116",
+     "address": "Burari",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Burari-GGSSS-1207117",
+     "address": "Burari, Delhi-84",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mukund Pur Village - GGSSS",
+     "address": "MukundPur Village, Delhi-110042",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mukund Pur Village - GBSSS",
+     "address": "MukundPur Village, Delhi-110042",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "JAGATPUR - GBSS",
+     "address": "GBSS, JAGATPUR, DELHI",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Civil Lines",
+     "address": "Opp. I.P. College, Civil Lines",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Raj Niwas Marg",
+     "address": "Ludlow Castle, Raj Niwas Marg",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Government Lady Noyce Primary Special School (Co-ed) for the Hearing Impaired",
+     "address": "Nehru Vihar, Delhi-110054",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Qutab Road-SBV",
+     "address": "Opp. Tanga Stand, Qutab Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sarai Rohilla-GBSSS",
+     "address": "Sarai Rohilla",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Model Basti-GBMS",
+     "address": "Model Basti, Rani Jhansi Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Chandni Chowk-G(Co-ed)SS",
+     "address": "Kucha Kabil Attar, Near Town Hall, Chandni Chowk",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Gulabi Bagh-S(Co-ed)V",
+     "address": "Gulabi Bagh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Partap Nagar- S(Co-ed) V",
+     "address": "Pratap Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sarai Rohilla-SKV-1208015 (Nursery to XII)",
+     "address": "Sarai Rohilla",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Idgah Road-SKV",
+     "address": "Ahata Kedara, Idgah Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Chandni Chowk, Diwan Hall, SKV",
+     "address": "Gali Jogdhian",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Padam Nagar-S(Co-ed)V",
+     "address": "Padam Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SKV, Tulsi Nagar-1208021",
+     "address": "Tulsi Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kinari Bazar, Gali Barf Wali-GGSSS",
+     "address": "Gali Barf Wali, Kinari Bazar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Pul Bangash-SKV",
+     "address": "Pul Bangash",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Quresh Nagar, GGSSS",
+     "address": "Quresh Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sarvodaya Kanya Vidyalaya, Idgah Road",
+     "address": "Idgah Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Deputy Gunj-GGSS",
+     "address": "Deputy Gunj",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Inder Lok-SKV",
+     "address": "Inder Lok",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Naya Bazar,Sushila Mohan Marg-(Co-ed)Sec. School",
+     "address": "Sushila Mohan Marg,Naya Bazar,Delhi-6",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kishan Ganj-RPVV",
+     "address": "Nai Basti, Kishan Ganj",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shastri Nagar-SKV",
+     "address": "Lalita Block, Shastri Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tulsi Nagar- GBSSS",
+     "address": "Tulsi Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shastri Nagar, Lalita Block - SBV",
+     "address": "Sarvodaya Bal Vidyalaya, Lalita Block, Shastri Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Quresh Nagar- S(Co-ed)V (Middle)",
+     "address": "Quresh Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Kishan Ganj",
+     "address": "Nai Basti, Kishan Ganj",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Quresh Nagar- SBV (Middle)",
+     "address": "Quresh Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sarvodaya Vidyalaya",
+     "address": "Doriwalan, Karaol Bagh, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "C.C. Colony-SBV",
+     "address": "C.C. Colony",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shalimar Bagh, Block B(AH)-GBSSS",
+     "address": "B(AH)-Block, Shalimar Bagh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dr. Mukharjee Nagar-SV",
+     "address": "Dr. Mukherjee Nagar, Near Batra Cinema",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "New Police Lines-SV",
+     "address": "Kingway Camp, New Police Line",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SBV, BT Block Shalimar Bagh",
+     "address": "BT-Block, Shalimar Bagh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shalimar Bagh, Block AP-GBSSS",
+     "address": "AP-Block, Shalimar Bagh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Guru Teg Bahadur Nagar-GBSSS",
+     "address": "Guru Teg Bahadur Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Model Town, No.1-GBSSS",
+     "address": "C-Block, Model Town-III",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Model Town, No.2-GBSSS",
+     "address": "Model Town, No. 2",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rana Partap Bagh-GBSSS",
+     "address": "Rana Pratap Bagh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Adarsh Nagar, No.1-GBSSS",
+     "address": "Adarsh Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kewal Park-G(Co-ed)SSS",
+     "address": "Kewal Park Azad Pur Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dhakka-GBSSS",
+     "address": "Dhakka",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shalamar Village-GGSSS",
+     "address": "Shalimar Village-Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Haider Pur-GGSS",
+     "address": "Haider Pur- Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dhakka-SKV",
+     "address": "Dhakka",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Model Town, No.1-SKV",
+     "address": "MODEL TOWN-III,DELHI-110009",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Guru Teg Bahadur Nagar-SKV",
+     "address": "Guru Teg Bahadur Nagar, King Way Camp",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rana Partap Bagh-SKV",
+     "address": "Rana Partap Bagh-Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shalimar Bagh, Block BL-SKV",
+     "address": "BL-Block, Shalimar Bagh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Adarsh Nagar-SKV",
+     "address": "Adarsh Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shalimar Bagh, Block B(AH)-SKV",
+     "address": "Block-B(AH), Shalimar Bagh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shalimar Bagh, Block AP-GGSSS",
+     "address": "AP-Block, Shalimar Bagh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Adarsh Nagar-GGSSS",
+     "address": "Adarsh Nagar Delhi-88",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Majlis Park-GGSS",
+     "address": "Majlis Park, Gali No. 9",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shalimar Bagh, Block BT-RPVV",
+     "address": "Block-BT, Shalimar Bagh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Adarsh Nagar, No.2-GBSSS",
+     "address": "Adarsh Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Model Town, No.2-GGSSS",
+     "address": "Block-R, Model Town",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Azadpur Colony-GGSSS",
+     "address": "Azadpur Colony",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Azadpur Colony-GBSSS",
+     "address": "Azadpur Colony",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Azadpur Village-GGSSS",
+     "address": "Azadpur Village",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Azadpur Village-GBSSS",
+     "address": "Azadpur Village",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vijay Nagar-SKV",
+     "address": "Vijay Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jahangirpuri, Block A- SBV",
+     "address": "Jahangirpuri, Delhi-33",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jahangirpuri, Block A, No.2 - SKV",
+     "address": "Jahangirpui, Block-A",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jahangirpuri, Block D-GBSSS",
+     "address": "Jahangirpuri, Delhi-33",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sarvodaya Kanya Vidyalaya (Rani Chennama), D - Block, Jahangir Puri",
+     "address": "D-Block, Jahangirpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jahangirpuri, Block E-GBSSS",
+     "address": "Block-E, Jahangirpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jahangirpuri, Block E-GGSSS-1309258",
+     "address": "Jahangirpuri, Delhi-33",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jahangirpuri, Block K-GBSSS",
+     "address": "Block-K, Jahangirpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jahangirpuri, Block K-GGSSS",
+     "address": "K-Block, Jahangripuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bhalswa Dairy, No-1,GGSS",
+     "address": "J.J. Colony Bhalswa Dairy, Delhi-42",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Libaspur-GBSSS",
+     "address": "Libaspur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Libaspur-GGSSS",
+     "address": "Libaspur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Qadipur-GBSSS",
+     "address": "Qadipur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Qadipur-GGSSS",
+     "address": "Qadipur, P. O. Alipur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bakhtawarpur-GBSSS",
+     "address": "Bakhtawarpur,Delhi-36",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bakhtawarpur-SKV (BMS)",
+     "address": "Subhash Chowk, Burari Road, Bakhtawarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Singhu-G(Co-Ed)SSS",
+     "address": "Singhu,Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Palla Majra-GBSSS",
+     "address": "Palla Majra,Delhi-36",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sarvodaya (Co-ed) Vidyalaya - Mukhmail Pur",
+     "address": "Mukhmail Pur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kalyan Vihar-SV",
+     "address": "KALYAN VIHAR DELHI",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Haider Pur-GBSS",
+     "address": "Haider Pur, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shalamar Village-GBSSS",
+     "address": "Shalimar Village-Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bhalswa Dairy, No-2,GBSS",
+     "address": "J.J. Colony Bhalswa Dairy, Delhi-42",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jahangirpuri,Plot No.5, A-Block - SKV",
+     "address": "Sarvodaya Kanya Vidyalaya, Plo No.5, A-Block, Jahangirpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bhalswa Village, Sarvodaya Vidyalaya",
+     "address": "Bhalswa Village",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tripolia, DESU Colony-SV(Middle)",
+     "address": "Tripolia, DESU Colony,New Delhi-07",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Govt.(Co-ed) Secondary School, Bhalswa Village ",
+     "address": "Bhalswa Village Delhi -42",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Block- BT, Shalimar Bagh",
+     "address": "Block- BT, Shalimar Bagh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ambedkar School of Specialised Excellance (ASoSE)",
+     "address": "Rana Pratap Bagh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Government Senior Secondary Special School for Boys with Blindness",
+     "address": "Sewa Kutir Complex, Kingsway Camp, Delhi-110009",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Prahalad Pur-SBV",
+     "address": "Prahalad Pur Delhi-42",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sannoth-SV",
+     "address": "Narela Bawana Road, Sanoth",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tikri Khurd- SKV",
+     "address": "Tikri Khurd",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nangal Thakran-SBV (Ved Pandit Khushi Ram)",
+     "address": "Nangal Thakran, Delhi-39",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Pooth Khurd-GBSSS",
+     "address": "Pooth Khurd,Delhi -39",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Badli-GBSSS",
+     "address": "Badli, Delhi42",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Katewara-GBSSS",
+     "address": "Katewara",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Alipur-GBSSS",
+     "address": "Aalipur, Delhi-36",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Khera Khurd-GBSSS",
+     "address": "Khera Khurad",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Narela, SBV",
+     "address": "Narela",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bawana-GBSSS",
+     "address": "Bawana",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bhorgarh-GBSSS",
+     "address": "Alipur Road, Village Bhorgarh, Narela",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shahabad Dairy- GGSSS",
+     "address": "Sahabad Dairy",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Harewali-G(Co-ed)SSS",
+     "address": "Harewali",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Holambi Kalan-G(CO-ED)SSS",
+     "address": "Holambi Kalan",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Alipur-SKV",
+     "address": "Alipur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Prahalad Pur-SKV",
+     "address": "Pehlad Pur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dariyapur Kalan-SKV (Updesh Kaur)",
+     "address": "Dariyapur Kalan",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Badli-SKV",
+     "address": "Badli",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Narela, No.1-SKV",
+     "address": "Narela",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Khera  Kalan-SKV (Baba Nane Nath)",
+     "address": "Khera Kalan Delhi-82",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Khera Khurd-SKV",
+     "address": "Khera Khurad",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bawana-SKV (Ravi Shankar)",
+     "address": "Bawana",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Pooth Khurd-SKV (Raja RamMohan Roy)",
+     "address": "Pooth Khurd",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Samaipur-GGSSS",
+     "address": "Samaipur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bankner-GGSSS",
+     "address": "Bankner",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Siraspur-GGSSS",
+     "address": "Siraspur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Barwala-G(Co-ed)SSS",
+     "address": "Barwala",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Narela, Pocket 5 & 6-GGSSS",
+     "address": "Pocket A-5-6, Narela",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Narela-GBSSS (Mussadi Lal)",
+     "address": "Narela",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bankner-SBV",
+     "address": "Vill & PO-Bankner,Near Narela-110040",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Holambi Kalan,B-Block  GGSSS",
+     "address": "Holambi Kalan,Block B",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Narela, No.2-SKV",
+     "address": "Narela",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Auchandi-SV",
+     "address": "Auchandi, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shahabad Dairy-GBSSS",
+     "address": "Shahabad Dairy",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "HOLAMBI KALAN,METRO VIHAR,A-BLK G(CO-ED)SSS",
+     "address": "HOLAMBI KALAN,METRO VIHAR,A-BLK",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "GHOGA G(CO-ED)SSS",
+     "address": "GHOGA",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Holambi Kalan, Metro Vihar, C-Block- G(Co-ed)SSS",
+     "address": "C-Block, Metro Vihar Holambi Kalan",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Narela Sector B-4, SV-1310408",
+     "address": "Sect. B-4, Narela ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Narela, A-10 Pocket-5, RPVV",
+     "address": "A-10 Pocket-5, Narela",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Narela, Sect. A-6, Pocket-2- GGSSS",
+     "address": "Sect. A-6, Pocket-2, Narela",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shahbad Daulatpur- GGSSS",
+     "address": "Shahbad Daulatpur, Delhi-42",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bawana J. J. Colony No.1 GGSSS",
+     "address": "Bawana J. J. Colony No.1",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bawana J. J. Colony No.2 GBSSS",
+     "address": "Bawana J. J. Colony No.2",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Siraspur-GBSSS",
+     "address": "Siraspur-GBSSS",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Holambi Kalan, B-Block GBSSS",
+     "address": "Holambi Kalan, B-Block ,Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Narela,Sect. A-6, Pkt-2 -SBV",
+     "address": "GBSSS, Sect. A-6, Pkt-2, Narela, Delhi-110040",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shahbad Daulatpur- GBSSS",
+     "address": "GBSSS, Shahbad Daultpur, Delhi-110042",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tikri Khurd- SBV",
+     "address": "Sarvodaya Bal Vidyalaya, Tikri Khurd, Delhi-110040",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bawana, J.J Colony- GGSS",
+     "address": "GGMS, J.J Colony, Bawana, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, A-10, Pocket- 5, Narela",
+     "address": "A-10, Pocket- 5, Narela",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Prahaladpur- S(Co-ed)V",
+     "address": "Prahaladpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Sector- 18, Rohini",
+     "address": "Sector- 18, Rohini",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bhorgarh- GGSSS",
+     "address": "Bhorgarh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Holambi Khurd- G(Co-ed)SSS",
+     "address": "Holambi Khurd",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sarvodaya (Co-ed) Vidyalaya",
+     "address": "Village Libaspur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ambedkar School of Specialised Excellence (ASoSE)",
+     "address": "Daryapur Kalan",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Anandwas-SBV",
+     "address": "Anandvas, Lok Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shakurpur, No.1-SBV",
+     "address": "Shakurpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ashok Vihar, Phase I, Block H-SBV",
+     "address": "Block-H, Phase-I, Ashok Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kailash Enclave-SV",
+     "address": "Kailash Enclave",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Pitampura, Block ZP- Sarvodaya Co-ed SSS",
+     "address": "Pitampura, Block ZP",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Pitampura, Block FU-SV",
+     "address": "Pitampura, Block GP",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ashok Vihar, Block D-GBSSS",
+     "address": "Block-D, Ashok Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ashok Vihar, Phase II-GBSSS",
+     "address": "Phase-II, Ashok Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Pitampura, Block SU-GBSSS",
+     "address": "Pitampura",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bharat Nagar-GBSSS",
+     "address": "Bharat Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Keshavpuram, Block A-S(Co-ed)V",
+     "address": "Keshav Puram",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Wazirpur, J.J. Colony-GBSSS",
+     "address": "Wazirpur, JJ Colony",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ashok Vihar, Phase I, Block H-SKV",
+     "address": "Block-H, Phase-I, Ashok Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ashok Vihar, Phase II-SKV",
+     "address": "Phase-II, Ashok Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Keshavpuram, No.1-SKV",
+     "address": "Keshav Puram",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Keshavpuram- SBV",
+     "address": "Keshavpuram, ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shakurpur, No.2-SKV",
+     "address": "Shakurpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bharat Nagar-SKV",
+     "address": "Bharat Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rampura- Govt. Co-ed Sarvodaya Vidyalaya",
+     "address": "Rampura",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Wazirpur, J.J. Colony-SKV",
+     "address": "J. J. Colony, Wazirpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Wazirpur Village-SV",
+     "address": "Wazirpur Village",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tri Nagar, Narang Colony- Govt. Co-ed SSS",
+     "address": "Tri Nagar ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Anandwas-GGSSS",
+     "address": "Anandwas",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ashok Vihar, Block D-GGSSS",
+     "address": "Ashok Vihar,Phase-1",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Pitampura, Block SU-GGSSS",
+     "address": "Block-SU, Pitampura",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Saraswati Vihar, Block A-GGSSS",
+     "address": "Block-A, Saraswati Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rani Bagh-G(Co-ed)SSS",
+     "address": "Rani Bagh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Anandwas- GGSSS",
+     "address": "GGSSS(Anandvas),Kohat Enclave",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Saraswati Vihar, Block C-SV",
+     "address": "Block-C, Saraswati Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sharda Niketan-SV",
+     "address": "Sharda Niketan",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shakurpur, No.1-G(Co-ed)SSS",
+     "address": "Shakurpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sainik Vihar-G(Co-ed)SSS",
+     "address": "Sainik Vihar,Delhi-110034",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ambedkar School of Speicalised Excellance (ASOSE)",
+     "address": "Anandwas, Kohat Enclave, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sultanpuri, Block-C, Sarvodaya Sr. Sec. Vidyalaya ",
+     "address": "Block-C, Sultanpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mangolpuri, Block K-SBV",
+     "address": "Mangolpuri, Block K-I",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sultanpuri, Block C- SBV",
+     "address": "Sultanpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sultanpuri, Block BC-GBSSS",
+     "address": "Block-BC, Sultanpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Pooth Kalan-SBV",
+     "address": "V. & P. O. Pooth Kalan, Nangoli Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sultanpuri, Block H- SBV",
+     "address": "Block-H, Sultanpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mangolpuri, Block U-GBSSS",
+     "address": "Block-U, Mangolpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mangolpuri, Block R-SBV",
+     "address": "Block-R, Mangolpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mangolpuri, Plot II,Kamdhenu- SBV",
+     "address": "Plot No. 2, Kamdhenu, Mangolpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mangolpuri, Block O- SBV",
+     "address": "Block-O, Mangolpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sultanpur Majra- S (Co-ed) V",
+     "address": "Sultanpur Majra",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mangolpuri, Block Y- SBV",
+     "address": "Block-Y, Mangolpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sultanpuri, P-Block - GGSSS",
+     "address": "Block-P-2 Sultan Puri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mangolpuri, Block-C, S(Co-ed)Sr. Sec. Vidyalaya",
+     "address": "Mangolpuri, Block-C",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mangolpuri, Block H-SKV",
+     "address": "Block-H, Mangolpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mangolpuri, Block D-SKV (Kamdhenu)",
+     "address": "Mangolpuri, Block -D, Kamdhenu",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sultanpuri, Block C-SKV",
+     "address": "Block-C, Sultanpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Pooth Kalan-SKV",
+     "address": "V. & P. O. Pooth Kalan, Nangoli Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sultanpuri, Block H-SKV",
+     "address": "Block-H, D-41, Sultan Puri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mangolpuri, Block U-SKV",
+     "address": "Block-U, Mangolpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mangolpuri, Block O-SKV",
+     "address": "Mangolpuri, Block -O",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mangolpur Kalan-G(co-ed)sss",
+     "address": "Mangolpur Kalan",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sultanpuri, Block BC-GGSSS",
+     "address": "Sultanpuri, Block BC",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mangolpur Khrud- GBSSS",
+     "address": "Mangolpur Khurd",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mangolpuri, Block Q-SKV",
+     "address": "Block-Q, Mangolpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mangolpuri, Block-K-2,SV",
+     "address": "Block-k-2, Mangolpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sultanpuri, F-Block, GBSSS",
+     "address": "Block-F, Sultanpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Pooth Kalan, Rohini Extn., Sector 20- SKV",
+     "address": "Pooth Kalan, Rohini Extn. ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sultanpuri, E-Block, GBSSS",
+     "address": "Block-E, Sultanpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sultanpuri, A-Block- SBV",
+     "address": "Block-P-2, Sultanpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sultanpuri, D-Block,G(Co-ed)SSS",
+     "address": "Block-D, Sultanpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sultanpuri, Block F-GGSSS",
+     "address": "Block-F, Sultanpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mangolpuri, Block P- SBV",
+     "address": "Mangolpuri, Block P",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mubarkpur Dabas,  No.1-GBSSS",
+     "address": "Mubarakpur Dabas",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nithari Village- SBV",
+     "address": "Nithari",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nithari-SKV",
+     "address": "Village Nithari",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rani Khera-S(Co-ed)V",
+     "address": "Rani Khera",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mongolpuri, Block D GBSSS",
+     "address": "Mongolpuri, Block D",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nithari-GGSSS",
+     "address": "Village Nithari",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nithari-GBSSS",
+     "address": "Village Nithari",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mubarikpur Dabas-GGSSS",
+     "address": "Mubarakpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Pooth Kalan, Rohini Extn., Sector 20- SBV",
+     "address": "Pooth Kalan, Rohini Extn.,Sector 20 ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mubarakpur Dabas, No-2,GGSSS-1412253",
+     "address": "Mubarakpur Dabas",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mubarkpur Dabas,  No.2-GBSSS",
+     "address": "Mubarakpur Dabas",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nithari Village- GGSSS",
+     "address": "Govt. Girls Secondary School, Nithari Village, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nithari Village- GBSSS",
+     "address": "Govt. Boys Secondary School, Nithari Village, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sultanpuri, P-Block - GBSSS",
+     "address": "Govt. Boys Sr. Secondary School, P- Block, Sultanpuri, Delhi-110086",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rohini, Phase-III, Sec-21- Govt. Co-ed Sarvodaya Vidyalaya",
+     "address": "Govt. Co-ed Sarvodaya Vidyalaya, Phase-III, Sec-21, Rohini, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rohini, Sec-22- Govt. Co-ed Sarvodaya Vidyalaya",
+     "address": "Govt. Co-ed Sarvodaya Vidyalaya, Sec-22, Rohini, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rohini, Phase-II, Sec-21- RPVV",
+     "address": "RPVV, Sec-21, Phase-II, Rohini, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Sec.- 21, Phase- II, Rohini",
+     "address": "Sec.- 21, Phase- II, Rohini",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Chandpur Majra-SV",
+     "address": "Chandpur Majra",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rohini, Sector 3-SV",
+     "address": "Rohini,Sect.3",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ghevra-SV",
+     "address": "Ghevra",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rohini, Sector 6-SV",
+     "address": "Rohini, Sect.6",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rohini, Sector 2 - G(Co-ed) Sarvodaya Vidyalaya",
+     "address": "Sector-2, Rohini",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nizam Pur-Sarvodaya (Co-ed) Vidyalaya",
+     "address": "Vill & P. O. Nizampur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rohini, Sector 9-SV (shaheed capt. Sanjeev Dahiya)",
+     "address": "Rohini, Sec.- 9",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rohini, Avantika, Sector 1, No.1-GBSSS",
+     "address": "Avantika, Rohini, Sect-I",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rithala-GBSSS",
+     "address": "Vill & P.O. Rithala",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Parshant Vihar-GBSSS",
+     "address": "Prashant Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rohini, Avantika, Sector 1, No.2- GBSSS",
+     "address": "Sector-1, Avantika, Rohini",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ladpur-GBSSS",
+     "address": "Ladpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rohini, Sector 11-GGSSS",
+     "address": "Sect-11, Rohini",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kanjhawala-SKV",
+     "address": "Kanjhawala",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rithala-SKV",
+     "address": "Rithala",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sarvodaya Co-ed Vidyalaya Sec. 8 Rohini",
+     "address": "Scct-8, Rohini",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Qutabgarh-SKV",
+     "address": "Qutabgarh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rohini, Avantika, Sector 1-SKV",
+     "address": "Avantika, Rohini, Sect-I",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Prashant Vihar-SKV",
+     "address": "Block-D, Sector-14, Prashant Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rohini, Avantika, Sector 1-GGSSS",
+     "address": "Opp. Block-D, Sector-I, Avantika",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rohini, Sector 16, Pocket A-SKV",
+     "address": "Sector-16, Pocket-A, Rohini",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rohini, Sector 15-G(Co-ed)SSS",
+     "address": "Block-F, Sector-15, Rohini",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rohini, Sector 7-SV",
+     "address": "Sector-7, Rohini",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Punnjab Khore-G(Co-ed)MS",
+     "address": "Punjab Khore",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rohini, Sector 11-RPVV",
+     "address": "Sector-11, Rohini",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Begumpur-GBSSS",
+     "address": "Begumpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Karala-SKV",
+     "address": "Karala",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Karala-GBSSS",
+     "address": "Karala",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jaunti-SV",
+     "address": "Jaunti",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sawada(Ghevra) Colony, A-Block- SKV",
+     "address": "Sawada(Ghevra) Colony A-Block",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sawada(Ghevra) Colony H-Block- SV",
+     "address": "Sawada(Ghevra) Colony H-Block",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Begampur, GGSSS",
+     "address": "Begampur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rohini, Sector 16, Pocket A-GBSSS",
+     "address": "Sector-16, Pocket-A, Rohini-MCDPS",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "ROHINI,SEC-24- GGSSS",
+     "address": "GOVT. GIRLS MIDDLE SCHOOL, SEC-24,ROHINI, DELHI",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "ROHINI,SEC-24- GBSSS",
+     "address": "GOVT. BOYS MIDDLE SCHOOL, SEC-24,ROHINI, DELHI",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "ROHINI,SEC-16- GGMS",
+     "address": "GOVT. GIRLS MIDDLE SCHOOL,PKT.-D, SEC-16,ROHINI, DELHI",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "ROHINI,SEC-16- GBMS",
+     "address": "GOVT. BOYS MIDDLE SCHOOL,PKT.-D, SEC-16,ROHINI, DELHI",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "ROHINI,SEC-15- G (CO-ED) SS",
+     "address": "GOVT. CO-ED MIDDLE SCHOOL,PKT.-F&G, SEC-15,ROHINI, DELHI",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sawada(Ghevra) Colony, B-Block- SBV",
+     "address": "Sawada(Ghevra) Colony B-Block",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rohini School of Excellence, Sector-17",
+     "address": "Sector-17, Rohini, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rohini, Sec-4- Govt. Co-ed Sarvodaya Vidyalaya",
+     "address": "Govt. Co-ed sarvodaya Vidyalaya, Rohini, Sec-4, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rohini, Sector- 25, GGSSS",
+     "address": "Sector-25, Rohini",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rohini, Sector 11- GBSSS",
+     "address": "Sector 11, Rohini",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rohini School of Excellence, Sector- 23",
+     "address": "Sector- 23, Rohini, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Sector- 17, Rohini",
+     "address": "Sector- 17, Rohini",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Sector- 23, Rohini",
+     "address": "Sector- 23, Rohini",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Sector- 11, Rohini",
+     "address": "Sector-11, Rohini",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Government Middle Special School (Co-ed) for the Hearing Impaired",
+     "address": "Sector-IV, Vishram Chowk, Rohini, Delhi-110085",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Khyala, J.J. Colony, No.1-GBSSS",
+     "address": "J. J. Colony, Khayala",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Khyala, No.2-GBSSS",
+     "address": "Khayala",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tilak Nagar, No.1-SBV",
+     "address": "Tilak Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tilak Nagar, No.2-SBV",
+     "address": "Tilak Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Janakpuri, Block B, No.2-SBV (Shaheed Capt. Anuj Nayyar)",
+     "address": "Block-B-2, Janakpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Chand Nagar, No.1-SKV",
+     "address": "Chand Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Khyala, No.1-GGSSS",
+     "address": "Khayala",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Khyala, No.2-SKV",
+     "address": "Khayala",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tilak Nagar, No.1-GGSSS",
+     "address": "Tilak Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tilak Nagar, No.3-SKV",
+     "address": "Tilak Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vikas Puri, Distt. Centre-SKV",
+     "address": "Distt. Centre, Vikaspuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ashok Nagar-GGSSS",
+     "address": "Ashok Nagar ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Janakpuri, Block B SKV",
+     "address": "Block-B, Janakpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Hari Nagar, Clock Tower- SKV",
+     "address": "Hari Nagar, Clock Tower",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Hari Nagar, Block-L  S(Co-ed)V",
+     "address": "Block-l, Hari Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Hari Nagar, Block BE-RPVV",
+     "address": "Block-B-E, Hari Nagar, Mayapuri Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Chand Nagar-SBV",
+     "address": "Chand Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Hari Nagar,Clock Tower,Site-2-GBSSS",
+     "address": "Hari Nagar,Clock Tower,Site-2",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Block BE, Hari Nagar",
+     "address": "Block BE, Hari Nagar, Mayapuri Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jaidev Park-SV",
+     "address": "Jaidev Park",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ashok Nagar-SBV",
+     "address": "Ashok Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Subhash Nagar-SBV",
+     "address": "Block-3, Subhash Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "East Punjabi Bagh-SV",
+     "address": "East Punjabi Bagh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rajouri Garden Main-GBSSS",
+     "address": "Rajouri Garden",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rajouri Garden Extn.-GBSSS",
+     "address": "Rajouri Garden Extn.",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Madipur, No.1-SBV",
+     "address": "Madipur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Punjabi Bagh, No.1-GBSSS",
+     "address": "Road No. 57, Near S.P.M Women College, Punjabi Bag",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Raghubir Nagar, J.J. Colony-GBSS",
+     "address": "J. J. Colony, Raghubir Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rajouri Garden Extn., GBSSS",
+     "address": "Rajouri Garden Extn.",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Raghubir Nagar, J.J. Colony- G(Co-ed)SSS",
+     "address": "Raghubir Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rajouri Garden Extn.-SKV",
+     "address": "Rajouri Garden Extn.",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rajouri Garden Main-SKV",
+     "address": "Block-F, Near Main Market, Rajouri Garden",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Punjabi Bagh, No.2-SKV",
+     "address": "Punjabi Bagh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Madipur, No.2-SKV",
+     "address": "Madipur ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tagore Garden, No.2-SKV",
+     "address": "Tagore Garden",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tagore Garden, No.1-GGSSS",
+     "address": "Tagore Garden",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Madipur, No.1-GGSSS",
+     "address": "Madipur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Subhash Nagar, No.1-GGSSS",
+     "address": "Subhash Nagar ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Raghubir Nagar, J.J. Colony-GGSSS",
+     "address": "J. J.  Colony, Raghubir Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tagore Garden-GBSSS",
+     "address": "Tagore Garden",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ramesh Nagar-SBV",
+     "address": "Ramesh Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mansarovar Garden-SV",
+     "address": "Mansarovar Garden",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Moti Nagar SBV",
+     "address": "Block-18, Moti Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shadi Khampur-GBSSS",
+     "address": "Shadi Khampur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Prem Nagar-GBSSS",
+     "address": "Prem Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Saraswati Garden-G(Co-ed)SS",
+     "address": "Block-IB, Ramesh Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Moti Nagar  SKV",
+     "address": "Moti Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Basai Darapur-SKV",
+     "address": "Basai Darapur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ranjit Nagar-SKV",
+     "address": "Ranjit Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shadi Khampur-SKV",
+     "address": "Shadi Khampur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kirti Nagar-GGSSS",
+     "address": "Kirti Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ramesh Nagar-SKV",
+     "address": "Ramesh Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Prem Nagar-GGSSS",
+     "address": "Prem Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Karampura, Industrial Area-G(Co-ed)SSS",
+     "address": "Industrial Area, Karampura",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Karampura, Block H- G(Co-ed) Sarvodaya Vidyalaya",
+     "address": "Block-h, Karampura",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "West Patel Nagar-GBSSS",
+     "address": "West Patel Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "West Patel Nagar-GGSSS",
+     "address": "West Patel Nagar New Delhi-110008",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "West Patel Nagar-SKV",
+     "address": "West Patel Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "West Patel Nagar-SBV",
+     "address": "West Patel Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tikri Kalan- GBSSS",
+     "address": "Tikri Kalan",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nangloi-SBV",
+     "address": "Nangloi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Paschim Vihar, A 2-SV(Co-ed)",
+     "address": "Paschim Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nangloi, Kavita Colony-G(Co-ed)SSS",
+     "address": "Kavita Colony, Nangloi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ranhaula-SKV",
+     "address": "Main Najafgarh Road, Ranhaula",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Hiran Kudna-SV(Co-ed)",
+     "address": "V & P. O. Hiran Kunda",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "New Multan Nagar-SV(Co-ed)",
+     "address": "New Multan Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Paschim Vihar, B 4-SV(Co-ed)",
+     "address": "B-4, Paschim Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Paschim Vihar, A 6-RPVV",
+     "address": "A-6, Paschim Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nangloi-SKV",
+     "address": "Nangloi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Paschim Vihar, B 3-SKV",
+     "address": "B-3, Paschim Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tikri Kalan-SKV",
+     "address": "Tikri Kalan",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nangloi, Sultanpuri Road-SKV",
+     "address": "Sultanpuri Road, Nangloi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mundka Village-SKV",
+     "address": "Mundka Village",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Amalwas, Jawalapuri-GBSSS",
+     "address": "Amalwas, Jawalapuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nangloi, Sultanpuri Road-GBSSS",
+     "address": "S. P. Road, Nangloi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mundka Village-GBSSS",
+     "address": "Mundka",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ambika Vihar-GBSSS",
+     "address": "Ambika Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nangloi-GGSSS",
+     "address": "Nangloi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nangloi, Phase II-GBSSS",
+     "address": "Phase-II, Nangloi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nangloi, Phase I-GBSSS",
+     "address": "Nangloi Phase I , No. 3",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nilothi-SKV",
+     "address": "Nilothi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Punjabi Basti-G(Co-ed)SSS",
+     "address": "Punjabi Basti, Nangloi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Peera Garhi Village- SKV",
+     "address": "Peera Garhi Village",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sarvodaya Co-ed Vidyalaya",
+     "address": "Bakkarwala",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Baprola-GGSSS",
+     "address": "Baprola",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Paschim Vihar, A 6-G(Co-ed)SSS",
+     "address": "A-6, Paschim Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ambika Vihar-GGSSS",
+     "address": "Ambika Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nangloi, J.J. Colony-GGSSS",
+     "address": "J. J. Colony, Nangloi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Amalwas, Jawalapuri-SKV",
+     "address": "Amalwas, Jawalapuri, No. 4",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nangloi, J.J. Colony-GBSSS",
+     "address": "J. J. Colony, Nangloi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Paschim Vihar, B 3-G(Co-ed)SSS",
+     "address": "B-3, Paschim Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Baprola Vihar- GGSS",
+     "address": "Baprola Vihar, New Delhi-43",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sarvodaya (Co-ed) Vidyalaya, Kunwar Singh Nagar, New Delhi",
+     "address": "Kunwar Singh Nagar, Ranhaula,Delhi -41",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nilothi-SBV",
+     "address": "Nilothi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Govt. Sarvodaya Kanya Vidyalaya, Shiv Ram Park, Nangloi",
+     "address": "SIV RAM PARK NANGLOI",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nihal Vihar, Nangloi- Govt. Sarvodaya Co-ed Vidyalaya",
+     "address": "NIHAL VIHAR, NANGLOI",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ranhaula- SBV",
+     "address": "SBV, Ranhaula",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Peera Garhi Village- SBV",
+     "address": "SBV, Peera Garhi Village, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Baprola, Rajiv Ratan Awas- G(Co-ed)SSS",
+     "address": "Baprola, Rajiv Ratan Awas,New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Baprola- GBSSS",
+     "address": "Baprola",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, A-6, Paschim Vihar",
+     "address": "A-6, Paschim Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Matiala-SBV",
+     "address": "Matiala, Near Uttam Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vikas Puri,Block A-SBV",
+     "address": "Block-A, Vikas Puri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Janakpuri, Possangipur B1-SV(Co-ed)",
+     "address": "Possangipur, Janakpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Uttam Nagar, No.2-GBSSS",
+     "address": "Uttam Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Janakpuri, Block C, No.2-SBV",
+     "address": "Block-C, Janakpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Janakpuri, Block C, No.1-GBSSS",
+     "address": "Opp. C4E Market, Janakpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Uttam Nagar-SBV",
+     "address": "Uttam Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kakrola-SV",
+     "address": "Kakrola",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vikas Puri, Block G-GBSSS",
+     "address": "Block-G, Vikas Puri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vikas Puri, KG-I\/II-GBSSS",
+     "address": "KG I-II, Vikas Puri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vikas Puri, Block- F-G(Co-ed)SSS",
+     "address": "Block-F, Vikas Puri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Janakpuri -SKV No.1,C-Block",
+     "address": "Block-C-B, Janakpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Janakpuri, Block A-SKV",
+     "address": "Block-A, Janakpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vikas Puri, Block G-SKV",
+     "address": "Block-G, Vikas Puri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kakrola-GGSSS",
+     "address": "Kakrola",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Uttam Nagar, No.2-GGSSS",
+     "address": "Uttam Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Janakpuri C-Block,SKV No.2 ",
+     "address": "Block-C, Janakpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Uttam Nagar-SKV",
+     "address": "Uttam Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Hastsal-GBSSS",
+     "address": "Near DDA Janta Flats, Hastsal",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bindapur-GBSSS",
+     "address": "DDA Flats, Bindapur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bindapur-GGSSS",
+     "address": "Near DDA Flats, Bindapur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "HASTSAL-SKV",
+     "address": "Hastasal Village ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vikas Puri, Block A-SKV",
+     "address": "Block-A, Vikaspuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mohan Garden-SKV",
+     "address": "Mohan Garden, Uttam Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Janakpuri, Block A, No.2-GGSSS",
+     "address": "Block-A, Janakpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Janakpuri, Block A-GBSSS",
+     "address": "Block-A, Janakpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vikas Nagar-G(Co-ed)SS",
+     "address": "Vikas Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Matiala-SKV",
+     "address": "Matiala Village",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mohan Garden-GBSSS No.1",
+     "address": "Mohan Garden",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bindapur-G(co-ed)SSS",
+     "address": "Bindapur Extension",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rajapur Khurd-G(Co-ed)SS",
+     "address": " ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shiv Vihar- GGSSS",
+     "address": " ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mohan Garden-GGSSS ",
+     "address": "Mohan Garden",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shiv Vihar-GBSSS",
+     "address": "SHIV VIHAR ( HASTSAL) NEW DELHI -59",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Binda Pur,Pocket-III-G(Co-ed)SS",
+     "address": "Binda Pur,Pocket-III",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "BindaPur,Pocket-IV-G(Co-ed)SS",
+     "address": "BindaPur,Pocket-IV",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mohan Garden-GBSSS No.2",
+     "address": "MOHAN GARDEN, DELHI",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "HASTSAL- GGSSS",
+     "address": "HASTSAL, DELHI",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Hastsal, Janta Flats- SBV",
+     "address": "SBV, Janta Flats, Hastsal, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Janakpuri, DESU Colony -Govt. SV",
+     "address": "Janakpuri, DESU Colony,New Delhi-58",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bindapur, No.2- GBSSS",
+     "address": "Govt. Boys Sr. Secondary School, No.2, Bindapur, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vipin Garden- Govt. Co-ed SS",
+     "address": "Govt Co-ed Secondary School, Vipin Garden, New Delhi-110059",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ambedkar School of Speicalised Excellance (ASOSE)",
+     "address": "DESU Colony, Janakpuri, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "R.K. Puram, Sector 12-SV (Jose Marti)",
+     "address": "R.K. Puram ,Sector-12",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sarojini Nagar, No.1-SBV (Ganesh Shankar Vidyarthi)",
+     "address": "Sarojini Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sarojini Nagar, No.3-GBSSS",
+     "address": "Sarojini Nagar, ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sarojini Nagar, No.4-GBSSS",
+     "address": "Sarojini Nagar, ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Moti Bagh I-GBSSS",
+     "address": "Moti Bagh-I",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "R.K. Puram, Sector 7, No.3-SV",
+     "address": "Sector-7,  R. K. Puram",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sarojini Nagar, No.3-GGSSS",
+     "address": "Sarojinee Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sarojini Nagar, No.1-SKV",
+     "address": "Sarojinee Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "R.K. Puram, Sector 4- GGSSS",
+     "address": "Sector-4, R. K. Puram",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "R.K.Puram, Sector-6, Govt. S.(Co-ed) SSS ",
+     "address": "Sector-6, R. K. Puram",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Moti Bagh I-SKV",
+     "address": "Moti Bagh-I",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Laxmi Bai Nagar(Co-Ed)-SSS",
+     "address": "Laxmi Bai Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "R. K. Puram, Sec-5(Co-Ed)-GSSS",
+     "address": "Sec - 5, R. K. Puram",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Moti Bagh-II, Nanakpura-(Co-Ed)SV",
+     "address": "Nanakpura , Moti Bagh -II ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Munirka, Sarvodaya(Co-ed) SSS",
+     "address": "Munirka ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "R.K. Puram,Sector-13 G(Co-ed)SV",
+     "address": "Sector-13, R.K. Puram",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ambedkar School of Specialised Excellance",
+     "address": "Sarojini Nagar, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Delhi Cantt.-SBV",
+     "address": "Tigri Road, Sadar Bazar, Delhi Cantt",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Naraina -SBV",
+     "address": "Naraina",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mehram Nagar-S(Co-ed)V",
+     "address": "Mehram Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Pusa, IARI, 2nd Shift- GBSSS",
+     "address": "IARI, Pusa",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Janak Puri, Block D, No.2-GBSSS-1720008",
+     "address": "Block-D, Janakpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Naraina -GBSSS",
+     "address": "Naraina",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Janak Puri, Block D, No.1-SKV",
+     "address": "Block-D, Janakpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Inderpuri, Budh Nagar, F- Block- S(Co-ed)V",
+     "address": "SKV, F-BLOCK,BUDH NAGAR,INDERPURI,NEW DELHI-110012",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Pusa, IARI-SKV",
+     "address": "IARI, Pusa",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Delhi Cantt.-SKV",
+     "address": "Delhi Cantt.",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Janak Puri, Block D, No.2-GGSSS",
+     "address": "Block-D, Janak Puri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Naraina-SKV",
+     "address": "Block-C, Naraina",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vasant Vihar, SV",
+     "address": "Vasant Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Janak Puri, Block D-SBV",
+     "address": "Block-D, Janakpuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rajokari-GBSSS",
+     "address": "Rajokari",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mahipal Pur-GBSSS",
+     "address": "Mahipalpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rajokari-SKV",
+     "address": "Rajokari",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mahipal Pur- Amar Shaheed Major Sehrawat SKV",
+     "address": "Mahipal Pur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ghitorni-SKV",
+     "address": "Ghitorni",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ghitorni-GBSSS",
+     "address": "Vill & P. O. Ghitorni",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Inder Puri, Shahid Captain Amit Verma Govt. Sarvodaya (Co-ed) Vidyalaya",
+     "address": "Block-C, Inder Puri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vasant Vihar, C-4,G(Co-ed)SS-1720174",
+     "address": "Govt. Co-ed Middle School, C-4, Vasant Vihar, New Delhi.",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vasant Kunj, D-Block- Sarvodaya (Co-ed) Sr. Sec. School ",
+     "address": "RPVV, D- Block, Vasant Kunj, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ambedkar School of Speicalised Excellance (ASOSE)",
+     "address": "Mehram Nagar, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Palam Enclave, No.2-SBV",
+     "address": "Palam Enclave ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Palam Village, Raj Nagar Extn., Part 2-GBSSS",
+     "address": "Raj Nagar, Part-II Extension ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Palam Village, No.1- SBV",
+     "address": "Palam Village",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Samalka, No.1- GBSSS",
+     "address": "Samalka",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sagarpur, No.1-GBSSS",
+     "address": "Sagarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sagarpur, No.2-GBSSS",
+     "address": "Sagarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Palam Village, Raj Nagar, Part 1-GBSSS",
+     "address": "Palam Village, Raj Nagar 1",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Palam Village, No.2-SKV",
+     "address": "Palam Village",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sagarpur, No.1-SKV",
+     "address": "Sagarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sagarpur, No.2-SKV",
+     "address": "Sagarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Palam Enclave, No.1-SKV",
+     "address": "Palam Enclave ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Raj Nagar-II SKV",
+     "address": "Palam colony, Delhi-77",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Samalka-SKV",
+     "address": "Samalka",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Palam Enclave, No.3-G(Co-ed)SSS",
+     "address": "Palam Enclave ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vijay Enclave-SKV",
+     "address": "Vijay Enclave",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Chhawla-SKV",
+     "address": "chhawla",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Raj Nagar-I SKV",
+     "address": "Raj Nagar Palam",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vijay Enclave-SBV",
+     "address": "Vijay Enclave",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dwarka, Sector II-G(Co-ed)SSS",
+     "address": "Palam, Dwarka, Sector-II",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dwarka Sector-I Pkt-7-SKV",
+     "address": "Pappan Kalan, Sect. -I, Pkt. VII, Dabri Extn",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dwarka, Sector-VI, G(Co-ed)SSS",
+     "address": "Dwarka, Sect-6, Pappan Kalan",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bijwasan( Bharthal)SBV",
+     "address": "Bharthal, Bijwasan, Palam",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shahabad Mohammadpur- SKV",
+     "address": "Shahabad, Mohammadpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kangan Heri-G(Co-ed)SSS",
+     "address": "Kangan Heri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bijwasan, Bharthal Road, GGSSS",
+     "address": "Bharthal, Bijwasan",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Chhawla-GBSSS",
+     "address": "Chhawla",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Pochanpur-G(Co-ed)SSS",
+     "address": "Pochan Pur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nanakheri-G(Co-ed)SS",
+     "address": "Chhawla, Nanakheri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bamnoli, Dhulsiras  -G(Co-ed) Sr.Sec.School",
+     "address": "Dulsiras, Bamnoli",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shahabad Mohammadpur- SBV",
+     "address": "Shahbad, Mohammadpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mahavir Enclave-G(Co-ed)SS",
+     "address": "Mahavir Enclave",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dwarka Sector-10, RPVV",
+     "address": "Sector-10, Dwarka",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dwarka, Sector III(Ist Site)-G(Co-ed)SSS",
+     "address": "Dwarka,Sector III(Ist Site)",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dwarka Sector-22, G(Co-ed)SSS",
+     "address": "Dwarka Sector-22, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dwarka Sector-6, Govt. (Co-ed) SSS (Site-I)",
+     "address": "Dwarka Sector-6, New Delhi-110075",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dwarka Sector-I Pkt-7 SBV",
+     "address": "Pappan Kalan, Sect. -I, Pkt. VII, Dabri Extn",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dwarka, Sector III(II Site)-G(Co-ed)SSS",
+     "address": "Dwarka,Sector III(II Site)",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dawarka,Sec-16A, G(Co-ed)SSS",
+     "address": "Govt. Co-ed Secondary School, Sec-16A, Dawarka",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Samalka, No.2- GBSSS",
+     "address": "GBSSS, No.2, Samalka, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "DWARKA SEC-17 GOVT CO-ED SARVODAYA VIDYALAYA",
+     "address": "GOVT CO-ED SARVODAYA VIDYALAYA DWARKA SEC-17 ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Samalka- GGSSS",
+     "address": "Govt. Girls Sr. Sec. School, Samalka, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dwarka, Sector-13- Govt. Co-ed Sarvodaya Vidyalaya",
+     "address": "Govt. Co-ed Sarvodaya Vidyalaya, Sector-13, Dwarka, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dwarka School of Excellence, Sector-22",
+     "address": "Sector-22, Dwarka, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dwarka, Sec-19- RPVV",
+     "address": "RPVV, Sec-19, Dwarka, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dwarka, Sec-5- RPVV",
+     "address": "Govt. Co-ed Sarvodaya Vidyalaya, Sec-5, Dwarka, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Sector- 22, Dwarka",
+     "address": "Sector- 22, Dwarka",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Sector- 10, Dwarka",
+     "address": "Sector- 10, Dwarka",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Sector- 5, Dwarka",
+     "address": "Sector- 5, Dwarka",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Sector- 19, Dwarka",
+     "address": "Sector- 19, Dwarka",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Sector- 6, Dwarka",
+     "address": "Sector- 6, Dwarka",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Najafgarh-S(Co-ed)V",
+     "address": "Najafgarh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Surhera-SV",
+     "address": "Surhera",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mundela Kalan-Govt.(Co-ed)SSS",
+     "address": "Mundela Kalan",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Pandwala Kalan-SV",
+     "address": "Pandawla",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Daulat Pur-SV",
+     "address": "Daulat Pur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shikar Pur-SV",
+     "address": "Shikar Pur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Najafgarh, No.2-GBSSS",
+     "address": "Najafgarh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ghumanhera-GBSSS",
+     "address": "Vill & P. O. Ghuman Hera",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kair-GBSSS",
+     "address": "Kair",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ujwa-GBSSS",
+     "address": "Vill & P. O. Ujwa",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dhansa-GBSSS",
+     "address": "Dhansa",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dichaon Kalan-GBSSS",
+     "address": "Vill. Dichaon Kalan",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rawta-G(Co-ed)SSS",
+     "address": "Vill & P. O. Rawta",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jhatikara-G(Co-ed)SSS",
+     "address": "Jhatikara",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Paprawat-GGSSS",
+     "address": "Paprawat",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Goela Khurd-GGSSS",
+     "address": "Goela Khurd",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Khera Dabar-G(Co-ed)SSS",
+     "address": "Khera Dabar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kazipur-G(Co-ed)SSS",
+     "address": "Kazipur, P. O. Ujwa",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Hasanpur Village- G(Co-ed)SSS",
+     "address": "Hasanpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dhansa-SKV",
+     "address": "Dhansa",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kair-SKV",
+     "address": "V. & P. O. Kair",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Najafgarh, No.1-GGSSS",
+     "address": "Najafgarh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Najafgarh, No.2-GGSSS",
+     "address": "Najafgarh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ujwa-GGSSS",
+     "address": "V. & P. O. Ujwa",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dichaon Kalan-GGSSS",
+     "address": "Dichaon Kalan",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ghumanhera- SV",
+     "address": "Ghumanhera",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jaffarpur Kalan-S(Co-ed)V",
+     "address": "Jaffarpur Kalan",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Khaira-G(Co-ed)SSS",
+     "address": "Khaira",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Najafgarh, No.3-GBSSS",
+     "address": "Najafgarh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Pandawala Khurd-GGSSS",
+     "address": "Pandawla Khurd",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Malikpur-G(Co-ed)SSS",
+     "address": "Malikpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Najafgarh, No.3-GGSSS",
+     "address": "Najafgarh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Najafgarh, Dharampura-SKV",
+     "address": "Dharampura, Najafgarh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Najafgarh, No.1-GBSSS",
+     "address": "Najafgarh, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Najafgarh, Jharoda Kalan-GBSSS",
+     "address": "Jharoda Kalan, Najafgarh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Najafgarh, Jharoda Kalan-GGSSS",
+     "address": "Jharoda Kalan",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Deendar Pur-Sarvodaya Kanya Vidalaya",
+     "address": "Deendar Pur, Najafgarh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Najafgarh Stadium-GGSSS",
+     "address": "Najafgarh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mitraon-G(Co-ed)SSS",
+     "address": "Mitraon",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nangli Sakrawati Village-GGSS",
+     "address": "Village- Nangli Sakrawati, New Delhi - 43",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Deendar Pur - SBV",
+     "address": "Deendarpur,jhatikara mod,New Delhi-43",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Najafgarh-GBSSS(Stadium)",
+     "address": "Najafgarh,New Delhi-110043",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Goela Khurd-GBSSS",
+     "address": "Goela Khurd",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Najafgarh, Dharampura-GBSSS",
+     "address": "Dharampura, Najafgarh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dichaon Kalan- G Coed SV",
+     "address": "Govt. Co-ed Sarvodaya Vidyalaya, Dichaon Kalan, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Paprawat- GBSSS",
+     "address": "GBSSS, Paprawat, New Delhi-110043",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nangli Sakrawati Village- GBSS",
+     "address": "Village- Nangli Sakrawati, New Delhi - 43",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "AFPS (SOSE), Jharoda Kalan",
+     "address": "Jharoda Kalan",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "R.K. Puram, Sector 2-Sarvodaya Co-ed Vidyalaya",
+     "address": "Sec-2.  R. K. Puram",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "R.K. Puram, Sector 2, No.1-SV",
+     "address": "Sector-II, R. K. Puram",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "R. K. Puram, Sec-3- G(Co-ed)SSS",
+     "address": "Sec-3, R. K. Puram",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Safdarjung Enclave-Sarvodaya(Co-Ed)SSS",
+     "address": "Safdarjung Enclave",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mehrauli Qutab, Sarvodaya (Co-ed) Sr. Sec. Vidyalaya",
+     "address": "Qutub, Mehrauli",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dr. Ambedkar Nagar, Sector IV, No.1- SBV (Yogi Arvind)",
+     "address": "Sect-IV, Dr. Ambedkar Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dr. Ambedkar Nagar, Sector IV, No.2-GBSSS",
+     "address": "Sect-IV, Dr. Ambedkar Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Malviya Nagar-GBSSS",
+     "address": "Malviya Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dr. Ambedkar Nagar, Sector V-GBSSS (Shaheed Anushuya Prasad)",
+     "address": "Sector-5, Dr. Ambedkar Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Chirag Delhi-GBSSS",
+     "address": "Swami Nagar, Chirag Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dr. Ambedkar Nagar, Sector V, No.1-GBSS",
+     "address": "Sect-V, Dr. Ambedkar Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dr. Ambedkar Nagar,Sector IV-SBV",
+     "address": "Sect-IV, Dr. Ambedkar Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Hauz Rani-GBSSS",
+     "address": "Near Malviya Nagar, Hauz Khas",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ishani Govt. Sarvodaya Kanya Vidyalaya G-BLOCK SAKET",
+     "address": "Block-G, Saket New Delhi-110017",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Chirag Delhi-SKV",
+     "address": "Soami Nagar, Chirag Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Hauz Rani-Sr.Sec.SKV (Raja RamMohan Roy)",
+     "address": "Hauz Rani, Malviya Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dr. Ambedkar Nagar, Sector IV, No.1-G(Co-ed)SSS",
+     "address": "Sect-IV, Dr. Ambedkar Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Malviya Nagar-SKV",
+     "address": "Malviya Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dr. Ambedkar Nagar, Sector V-GGSSS",
+     "address": "Sect-V, Dr. Ambedkar Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dr. Ambedkar Nagar, Sector V, No.2-GGSSS",
+     "address": "Sect-V, Dr. Ambedkar Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Lado Sarai-GGSS",
+     "address": "Lado Sarai",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Pushp Vihar, M.B.Road-GGSSS",
+     "address": "Sect-I, Pushp Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Saket, Block J-SBV (Vir Chander Singh Garhwali)",
+     "address": "Block-J, Saket",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Begumpur, MMTC\/STC Colony-S(Co-ed)V",
+     "address": "MMTC\/STC Colony, Begumpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Pushp Vihar, M.B.Road-GBSSS",
+     "address": "Pushp Vihar, Sect-1, M. B. Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dr. Ambedkar Nagar, Sector IV, No.3- S(Co-ed)V",
+     "address": "Sect-IV, Dr. Ambedkar Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dr. Ambedkar Nagar, Sector V, No.3-GBSSS",
+     "address": "Dr. Ambedkar Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Saket, Block G-GBSSS",
+     "address": "Block-G, Saket",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Pushp Vihar, M.B.Road-SKV",
+     "address": "M. B. Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Begumpur, MMTC\/STC Colony-GGSS",
+     "address": "MMTC\/STC Colony",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dr. Ambedkar Nagar, Sector V, No.1-GGSS",
+     "address": "Sector-V, Dr. Ambedkar Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dr. Ambedkar Nagar, Tigri- GGSSS",
+     "address": "Tigri, Dr. Ambedkar Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dr. Ambedkar Nagar,Sector-V(Dashinpuri Extension)-SV",
+     "address": "Dr. Ambedkar Nagar,Sector-V(Dashinpuri Extension)",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dr. Ambedkar Nagar, Sector IV, No.2- SBV",
+     "address": "SBV, No.2, Sector IV, Dr. Ambedkar Nagar, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Saket, Block J- GBSSS",
+     "address": "Block-J, Saket",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Green Park Extn.-SKV (Gargi)",
+     "address": "Green Park Extn.",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Shahpur Jat-S(Co-Ed)V",
+     "address": "Shahpur Jat",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "VASANT KUNJ- GGSSS",
+     "address": "B-1, Vasant Kunj",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Vasant Kunj, B1-RPVV",
+     "address": "B-1, Vasant Kunj",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "VASANT KUNJ- GBSSS",
+     "address": "B-1, Vasant Kunj",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jonapur- Baba Neem Karoli, SKV",
+     "address": "Jonapur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Fatehpur Beri- SBV",
+     "address": "Vill. & P. O. Fatehpur Beri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mehrauli, No.2-GBSSS",
+     "address": "Near Police Station, Mehrauli",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Deoli-GBSSS",
+     "address": "Deoli",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Khanpur, No.1-GBSSS",
+     "address": "Khanpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sarvodaya Kanya Vidyalaya, Dera Village, Delhi - 1923023(Nursery to XII)",
+     "address": "Dera Village",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bhatti Mines-G(Co-ed)SSS",
+     "address": "Sanjay Colony, Bhatti Mines",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sangam Vihar-GBSSS",
+     "address": "Sangam Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Neb Sarai-G(Co-ed)SS",
+     "address": "Near IGNOU, Neb Sarai",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Maidan Garhi-G(Co-ed)SS",
+     "address": "Maidan Garhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mehrauli Ramanujan-SKV",
+     "address": "Mehrauli",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Deoli-SKV (Bachhan Prasad)",
+     "address": "Deoli Village",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Chattarpur-GGSSS",
+     "address": "Chattarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sangam Vihar-GGSSS",
+     "address": "Sangam Vihar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Fatehpur Beri-SKV (Priya Darshani)",
+     "address": "Fatehpuri Beri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sultanpur-SKV",
+     "address": "Daulat Pur, Sultanpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Khanpur-SKV (Hakikat Rai)",
+     "address": "Khanpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "AYA NAGAR-SKV",
+     "address": "Aya Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mandi Village - SKV",
+     "address": "Village Mandi, Mehrauli",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Khanpur, No.2-GBSS",
+     "address": "Khanpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mehrauli, No.3-GBSS",
+     "address": "DESU Office Road, Mehrauli",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mehrauli, No.2- SKV",
+     "address": "Main Bazar, Mehrauli",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Chattarpur, Acharya Tulsi  SBV",
+     "address": "Chattarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "GBSSS, AYA NAGAR",
+     "address": "Aya Nagar - Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sultanpur-GBSSS",
+     "address": "SULTANPUR, DELHI",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mandi Village- GBSSS",
+     "address": "GBSSS, Mandi Village, New Delhi-110047",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jonapur - SBV",
+     "address": "Sarvodaya Bal Vidyalaya, Jonapur, New Delhi-110047",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sarvodaya Bal Vidyalaya, Dera Village, New Delhi",
+     "address": "Govt. Boys Sr.Sec.School, Dera Village, New Delhi-110074",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Govt. Girls Senior Secondary School",
+     "address": "Deoli Pahari, Sangam Vihar, New Delhi-110080",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Govt. Boys Senior Secondary School",
+     "address": "Deoli Pahari, Sangam Vihar, New Delhi-110080",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kitchner Road-SV",
+     "address": "Kitchner Road, Malcha Marg",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Pandara Road-GBSSS",
+     "address": "Pandara Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Pandara Road-SKV",
+     "address": "Pandara Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rouse Avenue-SBV",
+     "address": "Deen Dayal Upadhyay Marg",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jama Masjid, No.1(Urdu Medium)-SBV",
+     "address": "Jama Masjid",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Darya Ganj, Pataudi House-SBV",
+     "address": "Pataudi House, Darya Ganj",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kamla Market, Zeenat Mahal-SBV-2127004",
+     "address": "Zeenat Mahal, Kamla Market",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mata Sundri Road-GBSSS",
+     "address": "Mata Sundri Road, Opp Govt. Press",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jama Masjid, No.2-GBSS",
+     "address": "Jama Masjid",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bela Road-GBSSS",
+     "address": "Bela Road, Darya Ganj",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kamla Market, Zeenat Mahal-SKV No.1",
+     "address": "Kamla Market, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Mata Sundri Road-SKV",
+     "address": "Mata Sundri Road, 23, Rouse Avenue",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dayanand Road-SKV",
+     "address": "Dayanand Road, Darya Ganj",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jama Masjid, No.2-SKV",
+     "address": "Jama Masjid",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ram Nagar, No.1-GGSSS",
+     "address": "Ram Nagar, No. 1, Pahar Ganj",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bulbuli Khana-SKV",
+     "address": "Bulbuli Khana, Asaf Ali Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jama Masjid, Panama Building-GGSSS",
+     "address": "Panama Building, Jama Masjid",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jama Masjid, No.1(Hindi Medium)-SKV",
+     "address": "Jama Masjid",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Chashma Building(Urdu Medium)-SKV",
+     "address": "Gali Nawab Hoharu, Ballimaran",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bela Road-GGSSS",
+     "address": "Bela Road, Darya Ganj",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Bulbuli Khana(Urdu Medium)-SV (Middle)",
+     "address": "Kali Masjid, Near Bazar Sita Ram",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Lambi Gali- GGSS",
+     "address": "Lambi Gali, Hauz Kazi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ajmeri Gate, Gali Bansi Koyle Wali(Urdu Medium)-GBMS",
+     "address": "Ajmeri Gate",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kotla Firozshah-G(Co-ed)MS",
+     "address": "Kotla Firozshah",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Lal Kuan, Zeenat Mahal, No.2-SKV",
+     "address": "Zeenat Mahal, Lal Kuand",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SV (Co-ed), Lal Kuan",
+     "address": "Zeenat Mahal, Lal Kuand",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Pataudi House- SKV",
+     "address": "Pataudi House",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sita Ram Bazar- GGSSS",
+     "address": "Sita Ram Bazar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Govt. Boys Middle School",
+     "address": "Chashma Building, Ballimaran",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Government Lady Noyce Sr. Sec. Special School (Co-ed) for the Hearing Impaired",
+     "address": "Firozshah Kotla Stadium, GLNS Complex, Delhi Gate, New Delhi-110002",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Paharganj-SBV",
+     "address": "Pahar Ganj",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jhandewalan, Plot 6-SBV (Asharfi Devi)",
+     "address": "Plot No. 6, Jhandewalan",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "New Rohtak Road, 22-B Dev Nagar-GBSS",
+     "address": "Near Liberty Cinema, New Rohtak Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Dev Nagar-GBSSS",
+     "address": "Tank Road, Dev Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Rani Jhansi Road-SBV",
+     "address": "Rani Jhansi Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Karol Bagh, Ramjas Lane- GBSSS",
+     "address": "Ramjas Lane, Karol Bagh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Aram Bagh Lane-SKV",
+     "address": "Paharganj",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Old Rajinder Nagar-SKV (Swami Daya Nand)",
+     "address": "Swami Dayanand Govt. Sarvodaya Vidalaya, Old Rajin",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Prasad Nagar-SKV (Baba Ramdev)",
+     "address": "Prasad Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Paharganj-GGSSS",
+     "address": "Pahar Ganj",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "New Rohtak Road-GGSSS",
+     "address": "New Rohtak Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "East Park Road-GGSSS",
+     "address": "East Park Road, Karol Bagh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Karol Bagh, Link Road, Plot No.1-RPVV",
+     "address": "Plot No. 1, Link Road, Karol Bagh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "New Rajinder Nagar-SV (Rana Pratap)",
+     "address": "New Rajinder Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Plot No. 1, Link Road, Karol Bagh",
+     "address": "Plot No. 1, Link Road, Karol Bagh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Govt. Co-ed Sarvodaya Vidyalaya",
+     "address": "New Rajinder Nagar, Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sriniwaspuri-SBV (Govind Ballabh Pant)",
+     "address": "Sri Niwaspuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Ali Ganj-SV",
+     "address": "Lodhi Colony, Ali Ganj",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jangpura-GBSSS",
+     "address": "Near Eros Cinema, Jungpura",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sadiq Nagar-SBV",
+     "address": "Sadiq Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Govt. Sarvodaya Co-ed Vidyalaya, Varun Marg, Defence Colony-1924014",
+     "address": "Varun Marg, Defence Colony",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sarai Kale Khan-GBSS",
+     "address": "Sarai Kale Khan",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "GEORGI STOIKOV RAKOVSKI SARVODAYA KANYA VIDYALAYA C-BLOCK DEFENCE COLONY",
+     "address": "Block-C, Defence Colony",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Defence Colony, Block A- SN SKV",
+     "address": "Block-A, Defence Colony",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "East of Kailash, No.2-SKV",
+     "address": "East Of Kailash",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sriniwaspuri-GGSSS",
+     "address": "Sri Niwaspuri",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "East of Kailash, No.1-GGSSS",
+     "address": "East Of Kailash",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Andrews Ganj- SKV",
+     "address": "Andrews Ganj",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jungpura-SKV (Kamla Nehru)",
+     "address": "Jungpura",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "INA Colony- RPVV",
+     "address": "Tyagraj Nagar, Lodhi Rodhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kidwai Nagar- Sarvodaya Vidyalaya (Rani Durgawati)",
+     "address": "INA Colony",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Nehru Nagar-G(Co-ed)SSS",
+     "address": "Nehru Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Garhi, Jharia Maria-GBSS",
+     "address": "Garih Jharia Maria",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Hari Nagar Ashram-S(Co-ed) V",
+     "address": "Hari Nagar, Ashram",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jungpura-S(Co-ed)V",
+     "address": "Saman Bazar, Garhi Mohallah, Bhogal",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Chirag Enclave-S(Co-ed)V (Kautilya)",
+     "address": "Chirag Enclave",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "New Friends Colony-GBSSS (Chander Shekhar Azad)",
+     "address": "New Friends Colony",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kalkaji, No.1-SKV (Veer Savarkar)",
+     "address": "Kalkaji",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "New Friends Colony-SKV",
+     "address": "New Friends Colony",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Joga Bai-SKV",
+     "address": "Joga Bai, Jamia Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Joga Bai-GBSSS",
+     "address": "Joga Bai, Jamia Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Lajpat Nagar, Ring Road-SBV (Shaheed Hemu Kalani)",
+     "address": "Ring Road, Lajpat Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Masjid Moth- Sarvodaya(Co-ed) Vidyalaya",
+     "address": "Masjid Moth, South Extn.-II,Delhi-110049",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Lajpat Nagar-RPVV",
+     "address": "Near Krishana Market, Lajpat Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "LAJPAT NAGAR GOVT.(CO.ED)S.S.S",
+     "address": "LAJPAT NAGAR GOVT.(CO.ED)S.S.S",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Lajpat Nagar",
+     "address": "Lajpat Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, INA Colony",
+     "address": "Tyagraj Nagar, Lodhi Road",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Andrews Ganj",
+     "address": "Andrews Ganj",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Delhi Model Virtual School, Lajpat Nagar",
+     "address": "Lajpat Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SKV Middle, Jogabai, Batla House",
+     "address": "Jogabai, Batla House, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SBV Middle, Jogabai Batla House",
+     "address": "Jogabai Batla House, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jor Bagh-SV",
+     "address": "Jor Bagh",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sangam Vihar, J-Block- SKV",
+     "address": "Sangam Vihar J-Block",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Sangam Vihar,J-Block - SBV",
+     "address": "J Block Sangam Vihar Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Noor Nagar- SBV ",
+     "address": "Noor Nagar, Okhla",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Madanpur Khadar- GBSSS (Rama Krishna)",
+     "address": "Madanpur Khadar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tuglakabad Extn.-SBV (Sardar Vallabhbhai Patel)",
+     "address": "Tughlakabad Extn.",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Molar Band, No.1- SBV",
+     "address": "Molar Band, Via Badarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tuglakabad Village- SBV",
+     "address": "Tuglakabad Village",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Badarpur, No.1-GBSSS",
+     "address": "Badarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tuglakabad, Railway Colony- SBV",
+     "address": "Railway Colony, Tughlakabad",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tuglakabad Extn., No.2-GBSSS",
+     "address": "Tughlakabad Extn.",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tekhand - GGSSS",
+     "address": "Okhla Phase-I",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tuglakabad, Railway Colony-SKV (Rani Jhansi)",
+     "address": "Railway Colony, Tughlakabad",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Noor Nagar-SKV ",
+     "address": "Noor Nagar, Jamia Nagar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Molar Band, No. 1- SKV",
+     "address": "Molar Band, Badarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kalkaji, No.2-S(Co-ed)V",
+     "address": "Kalkaji",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kalkaji, No.3-G(Co-ed)SSS",
+     "address": "Kalkaji",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tuglakabad Village-SKV",
+     "address": "Tuglakabad Village",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kalkaji, DDA Flats, Phase II-G(Co-ed)SSS",
+     "address": "DDA Flats, Phase-II, Kalka JI",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Badarpur, No.1-GGSSS",
+     "address": "Badarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kalkaji, DDA Flats, Phase II-G(Co-ed)SS",
+     "address": "DDA Flats, Phase-II, Kalka JI",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tuglakabad, Railway Colony, No.2-GGSSS",
+     "address": "Railway Colony, Tughlakabad",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tuglakabad Extn.-GGSS",
+     "address": "Tughlakabad Extn.",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Molar Band-GBSSS",
+     "address": "Molar Band",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Badarpur, No.2-GBSSS",
+     "address": "Near DDA Flats, Badarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Molar Band, No.2- GGSSS",
+     "address": "Molar Band, Badarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Badarpur, No.2-GGSSS",
+     "address": "Badarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tughlakabad Extn.-SBV",
+     "address": "Tughlakabad Extn.",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Molar Band, No.2-GBSSS",
+     "address": "Molar Band, Badarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tughlakabad, Railway Colony, No.2-GBSSS",
+     "address": "Railway Colony, Tughlakabad",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Chitranjan Park-S(Co-ed) V (Shyama Prasad Mukherjee)",
+     "address": "Chitranjan Park",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tughlakabad Extn., No.1-SKV (Aruna Asif Ali)",
+     "address": "Tughlakabad Extn.",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Madanpur Khadar, No. 1- SKV",
+     "address": "Madanpur Khadar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Molar Band-GGSSS No. 3",
+     "address": "Molar Band",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Badarpur, No.3-GBSSS",
+     "address": "Badarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Badarpur, No.3-GGSSS",
+     "address": "Badarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tughlakabad Extn.-GBSSS No.3",
+     "address": "Tughlakabad Extn.",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tughlakabad Extn.-GGSSS No.2",
+     "address": "Tughlakabad Extn.",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Madanpur Khadar Extn. J.J.Colony  GBSSS",
+     "address": "J.J.Colony ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Madanpur Khadar Extn. J.J.Colony  GGSSS",
+     "address": "J.J.Colony ",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "HARKESH NAGAR GGSSS",
+     "address": "HARKESH NAGAR NEW DELHI",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "HARKESH NAGAR GBSSS",
+     "address": "HARKESH NAGAR  NEW DELHI",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jasola Village, GGSSS",
+     "address": "Jasola Village Shaheen Bagh,",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jasola Village, GBSSS",
+     "address": "JASOLA VILLLAGE, DELHI",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Tekhand - GBSSS",
+     "address": "Tekhand, Okhla Phase-I, New Delhi-20",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Badarpur, Tajpur Pahari - GGSSS",
+     "address": "GGSSS, Tajpur Pahari, Badarpur, New Delhi-110044",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Badarpur, Tajpur Pahari - GBSSS",
+     "address": "GBSSS, Tajpur Pahari, Badarpur, New Delhi-110044",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Molar Band, No.3- GBSSS",
+     "address": "GBSSS, No.3, Molar Band, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Molar Band, No.4- GGSSS",
+     "address": "GGSSS, No.4, Molar Band, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Molar Band, No.1- GGSSS",
+     "address": "GGSSS, No.1,Molar Band, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Molar Band, No.2- SBV",
+     "address": "SBV, No.2, Molar Band, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Madanpur Khadar- GBSSS",
+     "address": "GBSSS, Madanpur Khadar, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Madanpur Khadar- GGSSS",
+     "address": "GGSSS,Madanpur Khadar, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Kalkaji School of Excellence",
+     "address": "Kalkaji, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Madanpur Khadar Extn., Phase-III- SKV",
+     "address": "Govt. Co-ed Sarvodaya Vidyalaya, Phase-III, Madanpur Khadar, New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Madanpur Khadar School of Excellence, J.J Colony, Phase-II",
+     "address": "Phase-II, J.J. Colony, Madanpur Khadar Extn., New Delhi",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, Kalkaji",
+     "address": "Kalkaji",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "SOSE, J.J Colony, Phase- II, Madanpur Khadar",
+     "address": "J.J Colony, Phase- II, Madanpur Khadar Extn.",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Molar Band, No. 2- SKV-1925440 (Nursary to XII)",
+     "address": "Molar Band, Badarpur",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Jaitpur Extension Part- II, Gaddha Colony- SV(Middle)",
+     "address": "Gaddha Colony, Jaitpur Extension Part- II",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Madanpur Khadar Extn. , Phase-III- SBV",
+     "address": "Madanpur Khadar Extn. , Phase-III",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Madanpur Khadar, No. 1- GBSSS",
+     "address": "Madanpur Khadar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Madanpur Khadar, No. 2- SKV",
+     "address": "Madanpur Khadar",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Molar Band, No. 3- SBV",
+     "address": "Molar Band",
+     "state": "Delhi",
+     "city": "Delhi"
+    },
+    {
+     "schoolname": "Government Senior Secondary Special School (Co-ed) for The Hearing Impaired",
+     "address": "Block - B, PWD, Barracks, Kalkaji, Delhi - 110019",
+     "state": "Delhi",
+     "city": "Delhi"
+    }
+]
